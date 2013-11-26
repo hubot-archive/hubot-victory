@@ -1,35 +1,33 @@
-# Hubot Example
+# Hubot: hubot-victory
 
-An example script package for Hubot
+A victorious Image Generator for Hubots.
 
-[![Build Status](https://travis-ci.org/hubot-scripts/hubot-example.png)](https://travis-ci.org/hubot-scripts/hubot-example)
+See [`src/victory.coffee`](src/victory.coffee) for full documentation.
 
-## Directory Structure
+## Installation
 
-Using the common directory structure for hubot script packages it will be easy
-to manage and allow others to easily contribute to your package.
+Add **hubot-victory** to your `package.json` file:
 
-### script
+```json
+"dependencies": {
+  "hubot": ">= 2.5.1",
+  "hubot-scripts": ">= 2.4.2",
+  "hubot-victory": ">= 0.0.0"
+}
+```
 
-This directory is home to a couple of development scripts; `bootstrap` and `test`
-they're used to bootstrap the development environment and run tests
-respectively.
+Add **hubot-victory** to your `external-scripts.json`:
 
-### src
+```json
+["hubot-victory"]
+```
 
-This directory is home to the actual hubot scripts in the package. Your
-`index.coffee` entry point will load the scripts from this directory.
+Run `npm install hubot-victory`
 
-### test
+## Sample Interaction
 
-This directory is home to any tests you write for your scripts. This example
-package uses Mocha, Chai and Sinon to manage writing tests.
-
-## Advantages of Building a Package
-
-Some of the advantages of building an npm package for your hubot script(s) are:
-
-* You don't need to rely on when hubot-scripts package is released.
-* You can specify dependencies in the `package.json` rather than have users
-  manually specify them
-* You can easily add tests using your favourite frameworks and libraries
+```
+user1>> victory!
+hubot>> http://rack.3.mshcdn.com/media/ZgkyMDEzLzA4LzA1L2U1L2NvbGJlcnRyZXBvLjVjNmYxLmdpZgpwCXRodW1
+iCTg1MHg1OTA-CmUJanBn/710824a0/764/colbert-report.jpg
+```
