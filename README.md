@@ -1,5 +1,7 @@
 # Hubot: hubot-victory
 
+[![Build Status](https://travis-ci.org/jjasghar/hubot-victory.png?branch=master)](https://travis-ci.org/jjasghar/hubot-victory)
+
 A victorious Image Generator for Hubots.
 
 See [`src/victory.coffee`](src/victory.coffee) for full documentation.
