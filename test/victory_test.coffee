@@ -12,6 +12,6 @@ describe 'victory', ->
 
     require('../src/victory')(@robot)
 
-  it 'registers a respond listener', ->
-    expect(@robot.respond).to.have.been.calledWith(/victory/)
+  it 'registers a hear listener', ->
+    expect(@robot.hear).to.have.been.calledWith(/victory/)
 
