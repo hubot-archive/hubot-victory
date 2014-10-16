@@ -16,7 +16,6 @@
 victory = [
   "http://thejointblog.com/wp-content/uploads/2013/04/victory.jpg",
   "http://danceswithfat.files.wordpress.com/2011/08/victory.jpg",
-  "http://wakpaper.com/large/Victory_wallpapers_166.jpg",
   "http://stuffpoint.com/family-guy/image/56246-family-guy-victory-is-his.gif",
   "http://art.ngfiles.com/images/138/oman1996_victory-cat.png",
   "http://thelavisshow.files.wordpress.com/2012/06/victorya.jpg",
