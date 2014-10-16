@@ -1,7 +1,7 @@
 {
   "name": "hubot-victory",
   "description": "A hubot script to show victorious images",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "JJ Asghar <jjasghar@gmail.com>",
   "license": "MIT",
 
