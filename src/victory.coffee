@@ -15,6 +15,17 @@
 
 victory = [
   "http://thejointblog.com/wp-content/uploads/2013/04/victory.jpg",
+  "http://www.quickmeme.com/img/ea/ea4671998341d9fbb6f7815394b49cb2890a50ac80b62802fb021c147c068d8e.jpg",
+  "http://cdn-media.hollywood.com/images/l/victory_620_080712.jpg",
+  "http://cf.chucklesnetwork.agj.co/items/5/5/9/6/0/one-does-not-simply-declare-victory-but-i-just-did.jpg",
+  "http://www.artschoolgeek.com/wp-content/uploads/2014/06/h7E4B96E6.jpeg",
+  "http://t.qkme.me/3qlspk.jpg",
+  "http://img.pandawhale.com/86036-victory-dance-gif-Despicable-M-EPnS.gif",
+  "http://1.bp.blogspot.com/-rmJLwpPevTg/UOEBgVNiVFI/AAAAAAAAFFY/-At3Z_DzBbw/s1600/dancing+charlie+murphy+animated+gif+victory+dance.gif",
+  "http://www.gifbin.com/bin/20048442yu.gif",
+  "http://www.quickmeme.com/img/30/300ace809c3c2dca48f2f55ca39cbab24693a9bd470867d2eb4e869c645acd42.jpg",
+  "http://jeffatom.files.wordpress.com/2013/09/winston-churchill-says-we-deserve-victory.jpg",
+  "http://i.imgur.com/lmmBt.gif",
   "http://danceswithfat.files.wordpress.com/2011/08/victory.jpg",
   "http://stuffpoint.com/family-guy/image/56246-family-guy-victory-is-his.gif",
   "http://thelavisshow.files.wordpress.com/2012/06/victorya.jpg",
