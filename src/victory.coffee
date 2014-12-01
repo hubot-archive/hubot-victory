@@ -17,7 +17,6 @@ victory = [
   "http://thejointblog.com/wp-content/uploads/2013/04/victory.jpg",
   "http://danceswithfat.files.wordpress.com/2011/08/victory.jpg",
   "http://stuffpoint.com/family-guy/image/56246-family-guy-victory-is-his.gif",
-  "http://art.ngfiles.com/images/138/oman1996_victory-cat.png",
   "http://thelavisshow.files.wordpress.com/2012/06/victorya.jpg",
   "http://alookintomymind.files.wordpress.com/2012/05/victory.jpg",
   "http://rack.3.mshcdn.com/media/ZgkyMDEzLzA4LzA1L2QwL2JyYWRwaXR0LmJjMmQyLmdpZgpwCXRodW1iCTg1MHg1OTA-CmUJanBn/1a5a0c57/968/brad-pitt.jpg",
