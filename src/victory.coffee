@@ -41,7 +41,9 @@ victory = [
   "http://i.kinja-img.com/gawker-media/image/upload/s--_dYUH9jW--/18vvnw5taib2ogif.gif",
   "https://31.media.tumblr.com/e844e0925dbd8699ddb68fb2408d61b6/tumblr_mqrjr2oH0G1r3kc9vo1_250.gif",
   "http://i.kinja-img.com/gawker-media/image/upload/s--0wAEcaN4--/c_fit,fl_progressive,q_80,w_636/bdbtzjrhyyuarpfbqksn.gif",
-  "http://media.giphy.com/media/vpybhig8QFLOM/giphy.gif"
+  "http://media.giphy.com/media/vpybhig8QFLOM/giphy.gif",
+  "https://media.giphy.com/media/3o85xzwOcKkOw67ywg/giphy.gif",
+  "https://ladygeekgirl.files.wordpress.com/2012/01/1352309-huzzah1_super1.jpg"
 ]
 
 module.exports = (robot) ->
