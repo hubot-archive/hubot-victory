@@ -43,9 +43,20 @@ victory = [
   "http://i.kinja-img.com/gawker-media/image/upload/s--0wAEcaN4--/c_fit,fl_progressive,q_80,w_636/bdbtzjrhyyuarpfbqksn.gif",
   "http://media.giphy.com/media/vpybhig8QFLOM/giphy.gif",
   "https://media.giphy.com/media/3o85xzwOcKkOw67ywg/giphy.gif",
-  "https://ladygeekgirl.files.wordpress.com/2012/01/1352309-huzzah1_super1.jpg"
+  "https://ladygeekgirl.files.wordpress.com/2012/01/1352309-huzzah1_super1.jpg",
+  "http://storyports.com/wp-content/uploads/2015/05/TheDude.gif",
+  "https://media.giphy.com/media/1eiYhO5gOLbkk/giphy.gif",
+  "http://media.giphy.com/media/2vA33ikUb0Qz6/giphy.gif",
+  "http://bestanimations.com/Sports/Baseball/funny-baseball-fans-animated-gif-2.gif,"
+  "https://bigtennetworks.files.wordpress.com/2015/09/1-northwestern.gif",
+  "http://funnyasduck.net/wp-content/uploads/2013/04/funny-fan-dunk-phone-basketball-animated-gif-pics.gif,"
+  "https://metrouk2.files.wordpress.com/2015/09/serena.gif"
 ]
 
 module.exports = (robot) ->
   robot.hear /victory\b/i, (msg) ->
     msg.send msg.random victory
+
+module.exports = (robot) ->
+  robot.hear /success/\b/i, (msg) ->
+    msg.send msg.random victory 
