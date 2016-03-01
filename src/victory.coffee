@@ -56,7 +56,6 @@ victory = [
 module.exports = (robot) ->
   robot.hear /victory\b/i, (msg) ->
     msg.send msg.random victory
-
-module.exports = (robot) ->
+  
   robot.hear /success/\b/i, (msg) ->
     msg.send msg.random victory 
