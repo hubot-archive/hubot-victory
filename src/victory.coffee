@@ -23,7 +23,6 @@ victory = [
   "http://1.bp.blogspot.com/-rmJLwpPevTg/UOEBgVNiVFI/AAAAAAAAFFY/-At3Z_DzBbw/s1600/dancing+charlie+murphy+animated+gif+victory+dance.gif",
   "http://www.gifbin.com/bin/20048442yu.gif",
   "http://www.quickmeme.com/img/30/300ace809c3c2dca48f2f55ca39cbab24693a9bd470867d2eb4e869c645acd42.jpg",
-  "http://jeffatom.files.wordpress.com/2013/09/winston-churchill-says-we-deserve-victory.jpg",
   "http://i.imgur.com/lmmBt.gif",
   "http://danceswithfat.files.wordpress.com/2011/08/victory.jpg",
   "http://stuffpoint.com/family-guy/image/56246-family-guy-victory-is-his.gif",
