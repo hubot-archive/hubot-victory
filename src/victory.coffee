@@ -47,7 +47,6 @@ victory = [
   "http://media.giphy.com/media/2vA33ikUb0Qz6/giphy.gif",
   "http://bestanimations.com/Sports/Baseball/funny-baseball-fans-animated-gif-2.gif,"
   "https://bigtennetworks.files.wordpress.com/2015/09/1-northwestern.gif",
-  "http://funnyasduck.net/wp-content/uploads/2013/04/funny-fan-dunk-phone-basketball-animated-gif-pics.gif,"
   "https://metrouk2.files.wordpress.com/2015/09/serena.gif"
 ]
 
@@ -55,5 +54,5 @@ module.exports = (robot) ->
   robot.hear /victory\b/i, (msg) ->
     msg.send msg.random victory
 
-  robot.hear /success\b/i, (msg) ->
+  robot.hear / success\b/i, (msg) ->
     msg.send msg.random victory 
