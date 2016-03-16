@@ -47,7 +47,8 @@ victory = [
   "http://media.giphy.com/media/2vA33ikUb0Qz6/giphy.gif",
   "http://bestanimations.com/Sports/Baseball/funny-baseball-fans-animated-gif-2.gif,"
   "https://bigtennetworks.files.wordpress.com/2015/09/1-northwestern.gif",
-  "https://metrouk2.files.wordpress.com/2015/09/serena.gif"
+  "https://metrouk2.files.wordpress.com/2015/09/serena.gif",
+  "https://tvrecappersanonymous.files.wordpress.com/2013/04/jaime-nice.gif?w=500&h=281"
 ]
 
 module.exports = (robot) ->

@@ -1,38 +1,35 @@
 {
   "name": "hubot-victory",
   "description": "A hubot script to show victorious images",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "author": "JJ Asghar <jjasghar@gmail.com>",
   "license": "MIT",
-
   "keywords": [
     "hubot",
     "hubot-scripts"
   ],
-
   "repository": {
     "type": "git",
-    "url": "git@github.com:hubot-scripts/hubot-victory.git"
+    "url": "git+ssh://git@github.com/hubot-scripts/hubot-victory.git"
   },
-
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-victory/issues"
   },
-
   "dependencies": {
     "coffee-script": "~1.6"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
     "sinon": "*"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "script/test"
+  },
+  "homepage": "https://github.com/hubot-scripts/hubot-victory#readme",
+  "directories": {
+    "test": "test"
   }
 }
