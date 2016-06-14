@@ -32,4 +32,6 @@ Run `npm install hubot-victory`
 user1>> victory!
 hubot>> http://rack.3.mshcdn.com/media/ZgkyMDEzLzA4LzA1L2U1L2NvbGJlcnRyZXBvLjVjNmYxLmdpZgpwCXRodW1
 iCTg1MHg1OTA-CmUJanBn/710824a0/764/colbert-report.jpg
+user1>> success
+hubot>> http://rack.3.mshcdn.com/media/ZgkyMDEzLzA4LzA1L2U1L2NvbGJlcnRyZXBvLjVjNmYxLmdpZgpwCXRodW1iCTg1MHg1OTA-CmUJanBn/710824a0/764/colbert-report.jpg
 ```
