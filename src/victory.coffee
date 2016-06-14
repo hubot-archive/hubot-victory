@@ -48,7 +48,20 @@ victory = [
   "http://bestanimations.com/Sports/Baseball/funny-baseball-fans-animated-gif-2.gif,"
   "https://bigtennetworks.files.wordpress.com/2015/09/1-northwestern.gif",
   "https://metrouk2.files.wordpress.com/2015/09/serena.gif",
-  "https://tvrecappersanonymous.files.wordpress.com/2013/04/jaime-nice.gif?w=500&h=281"
+  "https://tvrecappersanonymous.files.wordpress.com/2013/04/jaime-nice.gif?w=500&h=281",
+  "http://i.imgur.com/eS6e4wH.jpg",
+  "https://m.popkey.co/4df1a5/X1l6D.gif",
+  "http://i.imgur.com/xjuOMWK.jpg",
+  "http://cdn.teen.com/wp-content/uploads/2013/05/yay.gif",
+  "https://media.giphy.com/media/FlWgXEtj5aM5G/giphy.gif",
+  "https://i.imgflip.com/poe36.gif",
+  "http://media2.giphy.com/media/suzNpqft8UU9i/giphy.gif",
+  "https://media.giphy.com/media/12m9SYRw8Mz0iY/giphy.gif",
+  "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/webdr06/2013/4/1/16/anigif_enhanced-buzz-3434-1364846445-23.gif",
+  "http://vignette1.wikia.nocookie.net/steven-universe/images/2/2f/Victory-o.gif/revision/latest?cb=20150706043851",
+  "http://m0.her.ie/wp-content/uploads/2014/11/Im_winning.gif",
+  "https://media.giphy.com/media/rypyVNU547qrC/giphy.gif",
+  "http://media4.giphy.com/media/xT9DPDp0PNRFbuqqli/giphy.gif"
 ]
 
 module.exports = (robot) ->
